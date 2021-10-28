@@ -17,6 +17,6 @@ data = [20,30,40,50,60,70,80,90,100]
 print("Bsuqueda binaria iterativa")
 print(busqueda.binaria_iterativa(data,90))
 
-#print("Bsuqueda binaria recursiva")
-#print(busqueda.binaria_recursiva(data,80))
+print("Bsuqueda binaria recursiva")
+print(busqueda.binaria_recursiva(data,0))
 
